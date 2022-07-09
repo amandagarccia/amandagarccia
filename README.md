@@ -8,6 +8,8 @@
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandagarccia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandagarccia&layout=compact&langs_count=7&theme=dark"/>
+  <img src="![octocat-1657333929648](https://user-images.githubusercontent.com/104217940/178088537-c85c25e4-ff6f-4d24-8b40-23330ce274b6.png)"/>
+
 </div>
   
   ##
