@@ -1,4 +1,4 @@
-### Olá! Eu sou a Amanda Garcia
+### Hello! I'm Amanda 
 
 - 📚 I’m currently learning Front End Developer
 - 📫 How to reach me: amandagarccia@outlook.com
