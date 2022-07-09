@@ -1,6 +1,6 @@
 ### Hello! I'm Amanda 
 
-- 📚 I’m currently learning Front End Developer
+- 📚 May we progress and exploit our potential as well as technology
 - 📫 How to reach me: amandagarccia@outlook.com
 - 😄 Pronouns: ela/dela
 
