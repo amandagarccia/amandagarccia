@@ -1,4 +1,5 @@
-### Hello! I'm Amanda 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B72AF7&lines=Hello!+I'm+Amanda+Garcia)](https://git.io/typing-svg)
+
 
 - 📚 May we progress and exploit our potential as well as technology
 - 📫 How to reach me: amandagarccia@outlook.com
